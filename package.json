@@ -1,11 +1,16 @@
 {
   "name": "koa-honeybadger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Honeybadger + Koa",
   "main": "index.js",
   "scripts": {
     "build": "tsc index.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benaubin/koa-honeybadger.git"
+  },
+  "homepage": "https://github.com/benaubin/koa-honeybadger",
   "author": "Ben Aubin (benaubin.com)",
   "license": "MIT",
   "peerDependencies": {
