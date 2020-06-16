@@ -1,6 +1,6 @@
 {
   "name": "koa-honeybadger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Honeybadger + Koa",
   "main": "index.js",
   "scripts": {
